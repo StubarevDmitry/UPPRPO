@@ -1,0 +1,6 @@
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\bin\Debug\BRTree.dll
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\bin\Debug\BRTree.pdb
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\obj\Debug\BRTree.csproj.AssemblyReference.cache
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\obj\Debug\BRTree.csproj.CoreCompileInputs.cache
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\obj\Debug\BRTree.dll
+C:\Users\stuba\source\repos\YPRPO_Lab1-2\BRTree\obj\Debug\BRTree.pdb
