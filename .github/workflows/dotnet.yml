@@ -27,5 +27,4 @@ jobs:
       run: dotnet build --no-restore
       working-directory: ./YPRPO_Lab1-2
     - name: Test
-      run: dotnet test --no-build --verbosity normal
-      working-directory: ./YPRPO_Lab1-2
+      run: dotnet test ./YPRPO_Lab1-2/UnitTest/UnitTest.csproj --no-build --verbosity normal
