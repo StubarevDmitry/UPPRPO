@@ -60,6 +60,8 @@
       <Project>{49906B95-BE7F-44BA-AAEE-14433F5D64A0}</Project>
       <Name>BRTree</Name>
     </ProjectReference>
+  <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
+  <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

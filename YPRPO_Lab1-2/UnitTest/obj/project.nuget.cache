@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5wP8KoQcO+b7X80pBZtvOphwpW8QIBE7Q0B+8UyUjGRNAl6tXiosaNoulp012k46yO4mqW/C7fc2pV/pHzhbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\UnitTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stuba\\.nuget\\packages\\mstest.testadapter\\2.2.10\\mstest.testadapter.2.2.10.nupkg.sha512",
+    "C:\\Users\\stuba\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\BRTree\\BRTree.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\BRTree\\BRTree.csproj",
+        "projectName": "BRTree",
+        "projectPath": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\BRTree\\BRTree.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\stuba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\stuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\BRTree\\BRTree.csproj": {
+                "projectPath": "C:\\Users\\stuba\\source\\repos\\UPPRPO\\YPRPO_Lab1-2\\BRTree\\BRTree.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
