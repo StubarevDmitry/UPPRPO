@@ -12,14 +12,11 @@ namespace UnitTest
         [TestMethod]
         public void Insert_SingleElement_ShouldSetRoot()
         {
-            // Arrange
+
             var tree = new RedBlackTree();
 
-            // Act
             tree.Insert(10);
 
-            // Assert
-            // Проверяем, что корень дерева существует и содержит правильное значение
             Assert.IsNotNull(tree.GetRoot());
             Assert.AreEqual(10, tree.GetRoot().Data);
             Assert.AreEqual(Color.Black, tree.GetRoot().Color);

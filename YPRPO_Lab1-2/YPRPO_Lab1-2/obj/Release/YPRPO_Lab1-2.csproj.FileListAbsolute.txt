@@ -1,0 +1,10 @@
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\bin\Release\YPRPO_Lab1-2.exe.config
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\bin\Release\YPRPO_Lab1-2.exe
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\bin\Release\YPRPO_Lab1-2.pdb
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\bin\Release\BRTree.dll
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\bin\Release\BRTree.pdb
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\obj\Release\YPRPO_Lab1-2.csproj.AssemblyReference.cache
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\obj\Release\YPRPO_Lab1-2.csproj.CoreCompileInputs.cache
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\obj\Release\YPRPO_Lab1-2.csproj.CopyComplete
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\obj\Release\YPRPO_Lab1-2.exe
+C:\Users\stuba\source\repos\UPPRPO\YPRPO_Lab1-2\YPRPO_Lab1-2\obj\Release\YPRPO_Lab1-2.pdb
