@@ -182,7 +182,7 @@ namespace BRTree
             if (root == null)
             {
                 root = newNode;
-                //root.Color = Color.Black;
+                root.Color = Color.Black;
                 return;
             }
 

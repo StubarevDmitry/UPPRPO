@@ -49,6 +49,32 @@ namespace UnitTest
             Assert.AreEqual(Color.Black, tree.GetRoot().Color);
         }
 
+
+        [TestMethod]
+        public void Is_Corect_Tree()
+        {
+            // Arrange
+            var tree = new RedBlackTree();
+
+            // Act
+            tree.Insert(10);
+            tree.Insert(20);
+            tree.Insert(30);
+
+            // Assert
+            // Проверяем, что дерево содержит все вставленные элементы
+            Assert.IsNotNull(tree.Search(10));
+            Assert.IsNotNull(tree.Search(20));
+            Assert.IsNotNull(tree.Search(30));
+
+            // Проверяем, что корень дерева черный (свойство красно-черного дерева)
+            Assert.AreEqual(Color.Black, tree.GetRoot().Color);
+
+            
+            Assert.AreEqual(Color.Red, tree.GetRoot().Left.Color);
+            Assert.AreEqual(Color.Red, tree.GetRoot().Right.Color);
+        }
+
         [TestMethod]
         public void Search_NonExistentElement_ShouldReturnNull()
         {
